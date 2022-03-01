@@ -1,0 +1,204 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An excellent new song call'd, The female duel; or, The victorious Williamite lady, who was challeng'd to fight a duel by a Jacobite lady. Tune of, If love's a sweet passion.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03183</idno>
+            <idno type="STC">Wing E3818</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.39.k.6[54]</idno>
+            <idno type="EEBO-CITATION">99887434</idno>
+            <idno type="PROQUEST">ocm99887434</idno>
+            <idno type="VID">182140</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03183)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182140)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A3:1[54])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An excellent new song call'd, The female duel; or, The victorious Williamite lady, who was challeng'd to fight a duel by a Jacobite lady. Tune of, If love's a sweet passion.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by P. Pelcomb,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Verse: "In Yokshire [sic] late happen'd a desperate fight ..."</note>
+                  <note>Printed in two columns.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:182140:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 16 -->
+            <head>An Excellent new SONG Call'd, The Female DUEL; OR, <hi>The Victorious Williamite Lady,</hi> Who was challeng'd to Fight a Duel by a JACOBITE Lady.</head>
+            <opener>Tune of, <hi>If Love's a ſweet Paſſion.</hi>
+            </opener>
+            <lg>
+               <l>IN <hi>Yokſhire</hi> late happen'd a deſperate fight</l>
+               <l>'Tween a <hi>Jacobite</hi> lady and a <hi>Williamite,</hi>
+               </l>
+               <l>'Twas fought with ſuch courage no men could do more,</l>
+               <l>Nor the like was nere known 'tween two women before;</l>
+               <l>For each met in the field with her ſword by her ſide,</l>
+               <l>Reſolving the ſame ſhould their quarrel decide.</l>
+            </lg>
+            <lg>
+               <l>'Twas after this manner the fray did begin,</l>
+               <l>At a Knight's in <hi>Yorkſhire</hi> at a merry-making,</l>
+               <l>There many fair ladies and gentlemen din'd,</l>
+               <l>When dinner was over then round went the wind,</l>
+               <l>By that time each drank for their ſhear a whole quart,</l>
+               <l>Then a bumper round (for a health) at a draught.</l>
+            </lg>
+            <lg>
+               <l>Says the <hi>Jacobite</hi> lady, Drink a health to the King,</l>
+               <l>Says the <hi>Williamite</hi> lady, That health I'll begin,</l>
+               <l>In the field he's a monarch that's valiant and brave,</l>
+               <l>And does venture his life theſe three kingdoms to ſave,</l>
+               <l>Come madam, ſucceſs to king <hi>William</hi> I ſay,</l>
+               <l>And to all his brave forces by land and by ſea.</l>
+            </lg>
+            <lg>
+               <l>The <hi>Jacobite</hi> lady being put to a ſtand,</l>
+               <l>Immediately ſtruck glaſs and wine from her hand,</l>
+               <l>And called her rebellious <hi>Heretick</hi> too,</l>
+               <l>Then took up a bottle to give her a blow;</l>
+               <l>But ſome there did hinder her furious deſign,</l>
+               <l>And fain would perſwade her to friendſhip that time.</l>
+            </lg>
+            <lg>
+               <l>But nothing her paſſion that time could aſſwage,</l>
+               <l>She riſe up in a fury, went away in a rage;</l>
+               <l>Next Morning ſhe ſent her a letter with ſpeed;</l>
+               <l>When the <hi>Williamite</hi> Lady the ſame once did read,</l>
+               <l>She found ſhe was challeng'd, a ſword ſhe muſt bring,</l>
+               <l>And fight her, for drinking a health to the king.</l>
+            </lg>
+            <lg>
+               <l>The <hi>Williamite</hi> lady not daunted in mind,</l>
+               <l>But anſwer did ſend, ſhe would meet at the time:</l>
+               <l>A ſuit of her brother's this lady put on,</l>
+               <l>With a ſword by her ſide too ſhe marched along,</l>
+               <l>To meet her bold challenger fairly to fight,</l>
+               <l>For ſhe ſaid ſhe'd not fear any ſhe <hi>Jacobite.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>You are for king <hi>William,</hi> the <hi>Jacobite</hi> cry'd;</l>
+               <l>
+                  <hi>I am ſo, and will be while I live,</hi> ſhe reply'd:</l>
+               <l>Then you and I muſt have a tryal of skill;</l>
+               <l>
+                  <hi>You ſee I'm prepar'd to kill, or be kill'd.</hi>
+               </l>
+               <l>Then bravely they thruſt at each other I ſay,</l>
+               <l>But the <hi>Jacoblte</hi> lady was forc'd to give way.</l>
+            </lg>
+            <lg>
+               <l>Their glittering ſwords they did heartily puſh,</l>
+               <l>Till the <hi>Jacobite</hi> lady fell into a buſh.</l>
+               <l>A man who did ſpie them came running in haſt,</l>
+               <l>And held, as he thought, a young man by the waſt,</l>
+               <l>Till the lady who fell, and lay bleeding, did cry,</l>
+               <l>I am wounded, come help me, or elſe I ſhall dye.</l>
+            </lg>
+            <lg>
+               <l>Her hat and wigg falling off made them be known,</l>
+               <l>Or elſe they had gone for two young men unknown;</l>
+               <l>But when I found out who theſe young women were,</l>
+               <l>They beg'd I would not their ſtrange quarrel declare;</l>
+               <l>And had not ones Brother came juſt as he did,</l>
+               <l>This ſecret for me ſhould for ever been hid.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed and ſold by <hi>P. Pelcomb.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
